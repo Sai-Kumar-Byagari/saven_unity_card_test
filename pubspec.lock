@@ -467,7 +467,7 @@ packages:
   saven_unity_card_flutter_plugin:
     dependency: "direct main"
     description:
-      path: "D:/SaiKumarByagari/FlutterProjects/flutter_projects/saven_unity_card_flutter_plugin"
+      path: "/Users/apple/Documents/SaiKumarByagari/FlutterProjects/saven_unity_card_flutter_plugin"
       relative: false
     source: path
     version: "0.0.1"

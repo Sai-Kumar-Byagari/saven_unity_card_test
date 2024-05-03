@@ -21,6 +21,24 @@ version: 1.0.0+1
 environment:
   sdk: '>=3.3.3 <4.0.0'
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
 # Dependencies specify other packages that your package needs in order to work.
 # To automatically upgrade your package dependencies to the latest versions
 # consider running `flutter pub upgrade --major-versions`. Alternatively,
@@ -32,7 +50,7 @@ dependencies:
     sdk: flutter
   saven_unity_card_flutter_plugin:
     path:
-      D:/SaiKumarByagari/FlutterProjects/flutter_projects/saven_unity_card_flutter_plugin
+      /Users/apple/Documents/SaiKumarByagari/FlutterProjects/saven_unity_card_flutter_plugin
 
 
   # The following adds the Cupertino Icons font to your application.
